@@ -6,3 +6,4 @@ COPY ./migrations/* /docker-entrypoint-initdb.d/
 ENV PRIVATE_KEY ey1235
 
 
+
